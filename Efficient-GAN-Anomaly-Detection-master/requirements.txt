@@ -5,3 +5,4 @@ urllib3
 gensim
 pillow
 regex
+matplotlib
